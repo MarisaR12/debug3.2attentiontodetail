@@ -1,0 +1,33 @@
+ /* ORIGINAL TASK PUPILS STARTED WITH
+Full credit to code.org for task */
+  body{
+      background-image: repeating-linear-gradient(#003399,#666699);
+  }
+p {
+  color: white;
+  font-style: italic;
+}
+h1 {
+  color: navy;
+  font-weight: bold;
+  font-family: 'Akaya Kanadaka';
+  text-align: center;
+  font-size: 3em;
+  background-color: white;
+}
+
+h2 {
+  color: #ffffff;
+  font-weight: bold;
+  text-decoration: underline;
+  font-family: Helvetica, sans-serif;
+  border: 3px;
+  font-size: 2em;
+  border-color:white;
+  border-style: dotted;
+}
+
+img{
+  height: 300px;
+  width: 300px;
+}
